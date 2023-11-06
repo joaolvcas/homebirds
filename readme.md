@@ -20,6 +20,8 @@ For prototyping:
 
 <img src="https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white" />
 
+[LAYOUT](https://www.figma.com/file/FMKlvOeAMJbGrQyXzfrqEe/Untitled?type=design&node-id=0-1&mode=design)
+
 #### 💻 DEVELOPING
 
 To run this project on your local machine, follow these steps::
