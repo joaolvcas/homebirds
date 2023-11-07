@@ -13,7 +13,7 @@ Birds Home
   <img src="https://img.shields.io/badge/php-787cb5?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/javascript-f0db4f?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/elementor-562846?style=for-the-badge&logo=elementor&logoColor=white" />
-  <img src="https://img.shields.io/badge/custom%20element%20UI-000?style=for-the-badge&logo=i&logoColor=black" />
+  <img src="https://img.shields.io/badge/custom%20post%20type%20UI-000?style=for-the-badge&logo=i&logoColor=black" />
 </div>
 
 For prototyping:
